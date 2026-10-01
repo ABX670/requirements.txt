@@ -1,2 +1,2 @@
-# requirements.txt
-requirements.txt
+flask==3.0.3
+requests==2.31.0
